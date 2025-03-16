@@ -1,4 +1,3 @@
-# Code-Reviewer
 # 🎯Overview
 The Code Review Tool is an AI-powered platform that analyzes code, detects errors, and provides optimization suggestions. It ensures code quality by enforcing industry best practices like DRY, SOLID, and clean coding standards.
 
@@ -15,6 +14,6 @@ Click "Review Code" to analyze.
 View detailed feedback with explanations & improvements.
 
 # 🏗 Tech Stack
-Frontend: HTML, CSS, JavaScript
+Frontend: React.js
 Backend: Node.js, Express.js
 AI Model: Google Gemini 2.0 Flash
