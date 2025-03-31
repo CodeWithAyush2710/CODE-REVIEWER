@@ -26,4 +26,11 @@ View detailed feedback with explanations & improvements.
    ```bash
    git clone https://github.com/CodeWithAyush2710/Code-Reviewer.git
    cd Code-Reviewer
+   
+1. **Install Dependencies**:
+
+   ```bash
+   cd Code-Reviewer
+   npm i
+   
 
